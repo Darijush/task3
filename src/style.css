@@ -1,0 +1,22 @@
+ul{
+    direction: none;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.picturePlace{
+border: 2px solid black;
+width: 400px;
+
+}
+.picture{
+    width: 200px;
+    height: 300px;
+    
+    
+    }
